@@ -358,13 +358,7 @@
     border-left: 25px solid var(--darkGreen);
     border-top: 25px solid var(--darkGreen);
   }
-  .card-paw {
-    width: 20px !important;
-    height: 18px;
-  }
-  .anim-paw {
-    padding: 20px;
-  }
+
   /*fourth section*/
   .fourth-section_img {
     width: 400px;
